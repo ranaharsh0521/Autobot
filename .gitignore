@@ -1,0 +1,30 @@
+# Python & Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+*.db
+*.sqlite3
+.pytest_cache/
+.yfinance_cache/
+
+# Node.js & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+
+# Environment & Secrets
+.env
+.env.production
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
